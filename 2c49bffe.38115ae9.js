@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{97:function(s){s.exports=JSON.parse('{"id":"c-19-adult-hosp","title":"COVID-19-like illness adult hospitalizations","description":"> Notice:\\r","source":"@site/..\\\\docs\\\\c-19-adult-hosp.md","permalink":"/docs/c-19-adult-hosp"}')}}]);
