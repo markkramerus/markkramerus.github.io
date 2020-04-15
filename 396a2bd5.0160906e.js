@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{98:function(o){o.exports=JSON.parse('{"id":"cohorts","title":"Cohorts","description":"import useBaseUrl from \'@docusaurus/useBaseUrl\';\\r","source":"@site/..\\\\docs\\\\cohorts.md","permalink":"/docs/cohorts"}')}}]);
