@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{103:function(s){s.exports=JSON.parse('{"id":"test-page","title":"TestPage","description":"Goal is link: https://mcovid.org/docs/studies/\\r","source":"@site/..\\\\docs\\\\test-page.md","permalink":"/docs/test-page"}')}}]);
