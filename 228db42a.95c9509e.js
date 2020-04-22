@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{96:function(s){s.exports=JSON.parse('{"id":"studies","title":"STUDIES","description":"# Studies\\r","source":"@site/..\\\\docs\\\\studies.md","permalink":"/docs/studies"}')}}]);
