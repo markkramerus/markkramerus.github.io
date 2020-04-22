@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{97:function(o){o.exports=JSON.parse('{"id":"vocabulary","title":"Vocabulary","description":"# Value sets supporting cohort definition:\\r","source":"@site/..\\\\docs\\\\vocabulary.md","permalink":"/docs/vocabulary"}')}}]);
