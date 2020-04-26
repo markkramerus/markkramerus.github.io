@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{113:function(s){s.exports=JSON.parse('{"id":"studies-hcq","title":"HYDROXYCHLOROQUINE STUDY","description":"import Tabs from \'@theme/Tabs\';\\r","source":"@site/..\\\\docs\\\\studies-hcq.mdx","permalink":"/docs/studies-hcq"}')}}]);
