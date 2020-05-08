@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{112:function(s){s.exports=JSON.parse('{"id":"studies-conv","title":"CONVALESCENT SERUM (CS) STUDY","description":"import Tabs from \'@theme/Tabs\';\\r","source":"@site/..\\\\docs\\\\studies-conv.mdx","permalink":"/docs/studies-conv"}')}}]);
