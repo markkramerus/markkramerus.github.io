@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{104:function(s){s.exports=JSON.parse('{"id":"studies-remd","title":"REMDESIVIR STUDY","description":"import Tabs from \'@theme/Tabs\';\\r","source":"@site/..\\\\docs\\\\studies-remd.mdx","permalink":"/docs/studies-remd"}')}}]);

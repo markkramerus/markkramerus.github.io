@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{104:function(s){s.exports=JSON.parse('{"id":"studies-bcg","title":"BACILLE CALMETTE-GUERIN STUDY","description":"##### Top\\r","source":"@site/..\\\\docs\\\\studies-bcg.md","permalink":"/docs/studies-bcg"}')}}]);

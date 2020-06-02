@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{112:function(s){s.exports=JSON.parse('{"id":"studies-fmt","title":"FAMOTIDINE STUDY","description":"##### Top\\r","source":"@site/..\\\\docs\\\\studies-fmt.md","permalink":"/docs/studies-fmt"}')}}]);

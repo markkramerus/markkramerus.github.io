@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{101:function(o){o.exports=JSON.parse('{"id":"vocabulary","title":"VOCABULARY","description":"##### Top\\r","source":"@site/..\\\\docs\\\\vocabulary.md","permalink":"/docs/vocabulary"}')}}]);

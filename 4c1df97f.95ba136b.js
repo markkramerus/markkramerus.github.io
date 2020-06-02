@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{108:function(s){s.exports=JSON.parse('{"id":"studies-rmd","title":"REMDESIVIR STUDY","description":"##### Top\\r","source":"@site/..\\\\docs\\\\studies-rmd.md","permalink":"/docs/studies-rmd"}')}}]);

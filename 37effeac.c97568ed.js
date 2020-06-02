@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{100:function(s){s.exports=JSON.parse('{"id":"test-tabs","title":"Test Tabs","description":"import Tabs from \'@theme/Tabs\';\\r","source":"@site/..\\\\docs\\\\test-tabs.mdx","permalink":"/docs/test-tabs"}')}}]);
